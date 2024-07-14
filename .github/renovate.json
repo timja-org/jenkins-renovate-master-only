@@ -65,6 +65,10 @@
       "description": "Starting with 7.x, Guice switches from javax.* to jakarta.* bindings. See https://github.com/google/guice/wiki/Guice700",
       "matchManagers": ["maven"],
       "allowedVersions": "<7.0.0"
+    },
+    {
+      "paths": ["test/pom.xml"],
+      "excludePackageNames": ["org.jenkins-ci.main:remoting"]
     }
   ],
   "regexManagers": [
