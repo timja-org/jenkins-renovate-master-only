@@ -67,7 +67,7 @@
       "allowedVersions": "<7.0.0"
     },
     {
-      "paths": ["test/pom.xml"],
+      "matchFileNames": ["test/pom.xml"],
       "excludePackageNames": ["org.jenkins-ci.main:remoting"]
     }
   ],
