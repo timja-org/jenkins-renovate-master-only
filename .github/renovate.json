@@ -68,7 +68,8 @@
     },
     {
       "matchFileNames": ["test/pom.xml"],
-      "excludePackageNames": ["org.jenkins-ci.main:remoting"]
+      "matchPackageNames": ["org.jenkins-ci.main:remoting"],
+      "enabled": false
     }
   ],
   "regexManagers": [
