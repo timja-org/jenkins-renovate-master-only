@@ -67,7 +67,7 @@
       "allowedVersions": "<7.0.0"
     },
     {
-      "matchFileNames": ["test/pom.xml"],
+      "matchFileNames": ["test/pom.xml", ".mvn/maven.config"],
       "matchPackageNames": ["org.jenkins-ci.main:remoting"],
       "enabled": false
     }
