@@ -81,6 +81,12 @@
       "matchDatasources": ["maven"],
       "enabled": false,
       "description": "maven-metadata.xml is missing for this really old package which is required by renovate"
+    },
+    {
+      "matchPackageNames": ["org.maven.ide.eclipse:lifecycle-mapping"],
+      "matchDatasources": ["maven"],
+      "enabled": false,
+      "description": "see https://github.com/jenkinsci/jenkins/pull/9522"
     }
   ],
   "customManagers": [
