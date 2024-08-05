@@ -11,12 +11,12 @@
   "baseBranches": ["master", "stable-2.462"],
   "packageRules": [
     {
-      "matchBaseBranches": ["stable-2.462"],
+      "matchBaseBranches": ["/stable-.+/"],
       "matchManagers": ["maven"],
       "labels": ["dependencies", "into-lts", "needs-justification"]
     },
     {
-      "matchBaseBranches": ["stable-2.462"],
+      "matchBaseBranches": ["/stable-.+/"],
       "matchManagers": ["custom.regex", "npm", "github-actions"],
       "enabled": false
     },
