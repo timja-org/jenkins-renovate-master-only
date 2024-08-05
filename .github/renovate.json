@@ -35,7 +35,7 @@
       "matchManagers": ["maven"],
       "enabled": false,
       "matchPackageNames": [
-        "/(org.eclipse.jetty:jetty-maven-plugin|org.jenkins-ci:winstone)/"
+        "org.eclipse.jetty:jetty-maven-plugin", "org.jenkins-ci:winstone"
       ]
     },
     {
