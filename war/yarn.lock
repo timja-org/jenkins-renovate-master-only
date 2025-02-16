@@ -4006,10 +4006,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"globals@npm:15.8.0":
-  version: 15.8.0
-  resolution: "globals@npm:15.8.0"
-  checksum: 10c0/b96ec86e1244806920a80a1a7c4d64b68c55336887cfa1b52886927e0f9035133e4acd354fcda63b49e53df2089c41a11dd2b02281a6439a58cbc0d63ae083cb
+"globals@npm:15.15.0":
+  version: 15.15.0
+  resolution: "globals@npm:15.15.0"
+  checksum: 10c0/f9ae80996392ca71316495a39bec88ac43ae3525a438b5626cd9d5ce9d5500d0a98a266409605f8cd7241c7acf57c354a48111ea02a767ba4f374b806d6861fe
   languageName: node
   linkType: hard
 
@@ -4429,7 +4429,7 @@ __metadata:
     eslint: "npm:9.8.0"
     eslint-config-prettier: "npm:9.1.0"
     eslint-formatter-checkstyle: "npm:8.40.0"
-    globals: "npm:15.8.0"
+    globals: "npm:15.15.0"
     handlebars: "npm:4.7.8"
     handlebars-loader: "npm:1.7.3"
     hotkeys-js: "npm:3.12.2"
