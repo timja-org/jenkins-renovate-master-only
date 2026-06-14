@@ -321,7 +321,7 @@ THE SOFTWARE.
                   <!-- dependency of echarts-api and junit -->
                   <groupId>io.jenkins.plugins</groupId>
                   <artifactId>bootstrap5-api</artifactId>
-                  <version>5.3.3-1</version>
+                  <version>5.3.8-1048.va_c299057e35c</version>
                   <type>hpi</type>
                 </artifactItem>
                 <artifactItem>
