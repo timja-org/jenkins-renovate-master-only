@@ -373,7 +373,7 @@ THE SOFTWARE.
                   <!-- dependency of script-security and workflow-support -->
                   <groupId>io.jenkins.plugins</groupId>
                   <artifactId>caffeine-api</artifactId>
-                  <version>3.1.8-133.v17b_1ff2e0599</version>
+                  <version>3.2.4-208.v7e2da_a_7db_82b_</version>
                   <type>hpi</type>
                 </artifactItem>
 
