@@ -4123,10 +4123,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"hotkeys-js@npm:3.12.2":
-  version: 3.12.2
-  resolution: "hotkeys-js@npm:3.12.2"
-  checksum: 10c0/67f19a01de9d1a6ad4ce1055734a7adc0a52fef81ccb1f61f4930a58ad93fca9c382f16647ef0abd9e1610814caddb0d3ca6ce7a8e6fcc43e26275423de617a9
+"hotkeys-js@npm:4.1.4":
+  version: 4.1.4
+  resolution: "hotkeys-js@npm:4.1.4"
+  checksum: 10c0/74f3ac17f97682dd80fa1a58a578e3f9ab39970825a3540c0d1d34e85187046adf31b3668c2f550f3b524747500818da2622d20eb2257cea44dad3dc9f2ab0e7
   languageName: node
   linkType: hard
 
@@ -4432,7 +4432,7 @@ __metadata:
     globals: "npm:15.8.0"
     handlebars: "npm:4.7.8"
     handlebars-loader: "npm:1.7.3"
-    hotkeys-js: "npm:3.12.2"
+    hotkeys-js: "npm:4.1.4"
     jquery: "npm:3.7.1"
     lodash: "npm:4.17.21"
     mini-css-extract-plugin: "npm:2.9.0"
